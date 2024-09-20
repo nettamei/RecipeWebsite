@@ -1,0 +1,41 @@
+[
+    {
+        "id": 716429,
+        "image": "https://img.spoonacular.com/recipes/716429-556x370.jpg",
+        "title": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+        "readyInMinutes": 45,
+        "aggregateLikes": 209,
+        "vegetarian": true,
+        "vegan": true,
+        "glutenFree": true,
+        "clicked": false,
+        "summary": "You can never have too many main course recipes, so give Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs a try. One serving contains <b>543 calories</b>, <b>17g of protein</b>, and <b>16g of fat</b>. For <b>$1.57 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. This recipe serves 2. A mixture of butter, white wine, pasta, and a handful of other ingredients are all it takes to make this recipe so yummy. 209 people have tried and liked this recipe. It is brought to you by fullbellysisters.blogspot.com. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 83%</b>, which is tremendous. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/pasta-with-garlic-scallions-cauliflower-breadcrumbs-1230187\">Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs</a>, <a href=\"https://spoonacular.com/recipes/pasta-with-garlic-scallions-cauliflower-breadcrumbs-1229807\">Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs</a>, and <a href=\"https://spoonacular.com/recipes/pasta-with-garlic-scallions-cauliflower-breadcrumbs-1229669\">Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs</a>."
+    
+    },
+    {
+        "id": 808,
+        "image": "https://assets.bonappetit.com/photos/62f1aa15af9bae430097bdf5/1:1/w_1920,c_limit/0808-raw-tomato-pasta-lede.jpg",
+        "title": "Grated Tomato and Miso-Butter Pasta",
+        "readyInMinutes": 25,
+        "aggregateLikes": 50,
+        "vegetarian": true,
+        "vegan": false,
+        "glutenFree": false,
+        "clicked": true,
+        "summary": "It turns out that the best no-cook pasta sauce…is a little bit cooked. There’s a reason classic marinara takes an hour on the stove, or tomato paste (itself a long-cooked and deeply concentrated tomato product) is such a beloved sauce ingredient—tomatoes are simply better when their bright, acidic sweetness hangs out in a hot pan for a while. But peak summer tomatoes are close to perfect straight from the farmers market, and the last thing I want to do on a hot evening is spend hours stirring a bubbling pot of sauce. So to get the best of both worlds, we’re making a deeply savory tomato pasta that’s extremely fast and almost no-cook.</a>."
+    
+    },
+    {
+        "id": 521,
+        "image": "https://assets.bonappetit.com/photos/6079b9105799229a8ef965a4/1:1/w_1920,c_limit/0521-Yasmin-Khan-Sour-Cherry-Cheesecake.jpg",
+        "title": "Sour Cherry Cheesecake",
+        "readyInMinutes": 50,
+        "aggregateLikes": 72,
+        "vegetarian": true,
+        "vegan": false,
+        "glutenFree": false,
+        "clicked": false,
+        "summary": "In her cookbook, Ripe Figs: Recipes and Stories from Turkey, Greece, and Cyprus, author Yasmin Khan celebrates the sharp, tangy cherry—a prized fruit in Turkey—by pairing it with a cake of baked yogurt and cream cheese. She uses frozen sour cherries for this recipe (they’re pitted, which saves time), but you can use fresh ones when they’re in season. To avoid a cracked cheesecake, don’t overwork the cream cheese mixture; be sure to line the baking pan; bake it slowly (if you know your oven runs hot, you can drop the temperature 25 degrees); and let the cheesecake cool gradually.</a>."
+    
+    }
+]
